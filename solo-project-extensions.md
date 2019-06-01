@@ -2,7 +2,7 @@
 
 These "extension" stories are for the final week solo project for Backend Module 2 students. It assumes your team has already completed 100% of the Little Shop project. In the case that your team has not finished the project, instructors will provide an alternate code base.
 
-You will be completing 2 of the features described below: **Users Have Multiple Addresses** and **A second feature that will be assigned to you**.
+You will be completing 2 of the features described below: **Users Have Multiple Addresses** and **A second feature of your choice**.
 
 Below, you'll see Completion Criteria and Implementation Guidelines. The Completion Criteria are the points that instructors will be assessing to ensure you've completed the work. The Implementation Guidelines will direct you in how to implement the work or offer advice or restrictions.
 
